@@ -4,6 +4,12 @@ import fs from 'fs';
 import path from 'path';
 import ReactMarkdown from 'react-markdown';
 
+export async function generateStaticParams() {
+    return data.personal.writings.blogs.map((blog) => ({
+        slug: blog.link.replace('/blog/', ''),
+    }));
+}
+
 export default async function BlogPost({ params }: { params: Promise<{ slug: string }> }) {
     const { slug } = await params;
 

@@ -2,8 +2,6 @@ import Link from 'next/link';
 import data from '../../data.json';
 import Parser from 'rss-parser';
 
-export const revalidate = 3600; // revalidate every hour
-
 export default async function Personal() {
     let recentMovies: any[] = [];
     try {
