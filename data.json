@@ -1,0 +1,153 @@
+{
+    "name": "Alok",
+    "role": "Software Engineer",
+    "bio": "I am a software engineer with experience in building web applications , i just love computers and how some logic gates managing the whole world ",
+    "links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/AlokMahapatra26"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/alok-mahapatra/"
+        },
+        {
+            "name": "Email",
+            "url": "mailto:alokmahapatra2604@gmail.com"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://x.com/aloktwts"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/@alokmahapatra1447/videos"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/alok.torrent"
+        }
+    ],
+    "experience": [
+        {
+            "role": "Freelance Developer ",
+            "company": "Davlabs Solutions",
+            "description": "I build custom software solutions for small businesses",
+            "period": "Jan 2026 — Present"
+        },
+        {
+            "role": "Full Stack Developer Intern",
+            "company": "Labmentix",
+            "description": "build several webapps using cutting edge technologies",
+            "period": "Aug 2025 — Jan 2026"
+        }
+    ],
+    "technologies": [
+        "TypeScript",
+        "React / Next.js",
+        "Tailwind CSS",
+        "Node.js",
+        "Python",
+        "PostgreSQL",
+        "AWS"
+    ],
+    "projects": [
+        {
+            "name": "Print Fabric",
+            "description": "A Web App for designing custom t-shirts for printing",
+            "github": "https://github.com/AlokMahapatra26/Print-Fabric-",
+            "live": "https://print-fabric.vercel.app/"
+        },
+        {
+            "name": "Anshuukam Textile",
+            "description": "A Website for B2b Fabric Manufacturer with tshirt designing tool with Admin Panel",
+            "github": "https://github.com/AlokMahapatra26/Anshukkam-Textile",
+            "live": "https://anshuukamtextile.com"
+        },
+        {
+            "name": "Soulmax",
+            "description": "A Music Streaming Service based on Tidal API",
+            "github": "https://github.com/AlokMahapatra26/soulmax",
+            "live": "https://www.soulmax.in/"
+        },
+        {
+            "name": "CS Playground",
+            "description": "A Website for visualizing computer science concepts",
+            "github": "https://github.com/AlokMahapatra26/CS-Playground",
+            "live": "https://cs-playground.vercel.app/"
+        },
+        {
+            "name": "Oxytocin - API testing tool",
+            "description": "A API testing tool for developers",
+            "github": "https://github.com/AlokMahapatra26/CS-Playground",
+            "live": "https://oxytocin-client.vercel.app/"
+        }
+    ],
+    "blogs": [
+        {
+            "title": "Read My Thoughts on Medium",
+            "date": "Coming Soon",
+            "link": "https://medium.com/@alokmahapatra2604"
+        }
+    ],
+    "personal": {
+        "writings": {
+            "books": [
+                {
+                    "title": "The Unspoken Infatuation",
+                    "year": "2023",
+                    "link": "https://6qk38p4xtr.ufs.sh/f/pLtvo0XewjGIXHDrp3h05nckhPEJdmweztpuBMqsTH6IlFf8"
+                },
+                {
+                    "title": "Kaua Aur Koyal (Hindi)",
+                    "year": "2025",
+                    "link": "https://6qk38p4xtr.ufs.sh/f/pLtvo0XewjGICsTh3p6TGXWP3H81gYv6xEdqtIlcK9CLnDAk"
+                }
+            ],
+            "blogs": [
+                {
+                    "title": "The Quiet Trap of Attachment",
+                    "date": "Mar 2026",
+                    "link": "/blog/quiet-trap"
+                }
+            ]
+        },
+        "music": [
+            {
+                "title": "Deep Focus / Ambient",
+                "description": "Atmospheric soundscapes",
+                "link": "#",
+                "platform": "Spotify"
+            },
+            {
+                "title": "Late Night Coding",
+                "description": "Dark synth and electronic",
+                "link": "#",
+                "platform": "Spotify"
+            }
+        ],
+        "favoriteMovies": [
+            {
+                "title": "Pyaasa",
+                "year": "1957",
+                "director": "Guru Dutt"
+            },
+            {
+                "title": "Aparajito",
+                "year": "1956",
+                "director": "Satyajit Ray"
+            },
+            {
+                "title": "Tamasha",
+                "year": "2015",
+                "director": "Imtiaz Ali"
+            },
+            {
+                "title": "C/o Kancharapalem",
+                "year": "2018",
+                "director": "Venkatesh Maha"
+            }
+        ],
+        "letterboxd": "https://letterboxd.com/alokx/"
+    }
+}
