@@ -68,7 +68,7 @@
             "name": "Soulmax",
             "description": "A Music Streaming Service based on Tidal API",
             "github": "https://github.com/AlokMahapatra26/soulmax",
-            "live": "https://www.soulmax.in/"
+            "live": "https://soulmax.vercel.app/"
         },
         {
             "name": "CS Playground",
